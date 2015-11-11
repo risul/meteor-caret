@@ -1,7 +1,7 @@
 Package.describe({
     name: 'risul:caret',
     summary: 'Meteor package for Caret.js - Get caret postion and offset from text field',
-    version: '0.0.2',
+    version: '0.2.2',
     git: 'https://github.com/risul/meteor-caret'
 });
 
